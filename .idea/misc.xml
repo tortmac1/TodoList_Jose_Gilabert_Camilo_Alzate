@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Cami/AndroidStudioProjects/TodoList_Jose_Gilabert_Camilo_Alzate/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Cami/AndroidStudioProjects/TodoList_Jose_Gilabert_Camilo_Alzate/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.133" />
+        <entry key="..\:/Users/Cami/AndroidStudioProjects/TodoList_Jose_Gilabert_Camilo_Alzate/app/src/main/res/drawable/ic_launcher_background.xml" value="0.133" />
+        <entry key="..\:/Users/Cami/AndroidStudioProjects/TodoList_Jose_Gilabert_Camilo_Alzate/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Cami/AndroidStudioProjects/TodoList_Jose_Gilabert_Camilo_Alzate/app/src/main/res/layout/fragment_tareas.xml" value="0.25" />
+        <entry key="..\:/Users/Cami/AndroidStudioProjects/TodoList_Jose_Gilabert_Camilo_Alzate/app/src/main/res/layout/item_tarea.xml" value="0.5" />
       </map>
     </option>
   </component>
