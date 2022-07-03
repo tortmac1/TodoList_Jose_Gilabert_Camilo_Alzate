@@ -1,5 +1,6 @@
 package com.example.todolist_jose_gilabert_camilo_alzate;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -32,11 +33,8 @@ public class Tareas extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_tareas, container, false);
-        Button best;
-        best = view.findViewById(R.id.btn_tarea);
-        best.setOnClickListener(view1 -> {
 
-        });
+
         return view;
     }
 

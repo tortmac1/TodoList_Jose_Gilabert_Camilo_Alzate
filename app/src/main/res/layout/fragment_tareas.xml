@@ -12,19 +12,13 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <Button
-            android:id="@+id/btn_tarea"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="right"
-            android:text="Añadir Tarea" />
+
 
         <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/container_events"
+            android:id="@+id/container_tarea"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:layoutManager="LinearLayoutManager"
-            tools:context=".fragments.EventsFragment"
             tools:listitem="@layout/item_tarea" />
 
 
