@@ -2,4 +2,8 @@
     <string name="app_name">TodoList_Jose_Gilabert_Camilo_Alzate</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo_add_tarea">Añadir Tarea</string>
+    <string name="titulo_crear_tarea">Crear Tarea</string>
+    <string name="titulo_nombre_de_tarea">nombre de tarea</string>
+    <string name="add_tarea">Add Tarea</string>
 </resources>

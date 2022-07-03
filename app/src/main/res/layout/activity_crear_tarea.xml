@@ -12,20 +12,19 @@
         android:padding="50dp"
         tools:ignore="MissingConstraints">
 
-    <EditText
-        android:id="@+id/crear_tarea"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:hint="nombre de tarea"
-        android:layout_marginRight="10dp"
-        ></EditText>
+        <EditText
+            android:id="@+id/crear_tarea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/titulo_nombre_de_tarea"
+            android:layout_marginRight="10dp" />
+
         <Button
             android:id="@+id/btn_crear_tarea"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
-            android:text="Crear Tarea"
-            ></Button>
+            android:text="@string/titulo_crear_tarea" />
 
 
 
